@@ -26,6 +26,6 @@ except Error as e:
 except:
     print(f"\nSe produjo el siguiente error: {sys.exc_info()[0]}")
 finally:
-    conn.close() #fumo? fumate esta mamahuevo tkm <3
+    conn.close() #fumo? fumate esta mamahuevo tkm <3 #callate perra
 
     
